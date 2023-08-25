@@ -73,4 +73,4 @@ async def on_message(message):
     # Allow other event handlers to continue processing
     await bot.process_commands(message)
 
-bot.run('MTE0NDQ0ODA0NDY3MTE4OTAyMg.GlefEt.MXEiMnBjaphuL5DSTfpLOUyeg0KekCUYOPN8DE')
+bot.run('this is where you'd enter your bot token. I actually uploaded mine here by accident LOOOOOL')
